@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.item1{
+    background-color: bisque;
+}
+.item2{
+    background-color: bisque;
+}
+.item3{
+    background-color: bisque;
+}
+.item4{
+    background-color: bisque;
+}
+.item5{
+    background-color: rgb(91, 112, 224);
+}
+.item6{
+    background-color: rgb(227, 140, 169);
+}
+.item7{
+    background-color: rgb(202, 95, 210);
+}
+.item8{
+    background-color: rgb(174, 129, 83);
+}
