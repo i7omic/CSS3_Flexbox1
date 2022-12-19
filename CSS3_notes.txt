@@ -54,6 +54,34 @@ https://medium.com/neverrest/vs-code-emmet-abbreviations-and-snippets-make-your-
 --------------------------------------------------
 --------------------------------------------------
 
+rgba(0-255, 0-255, 0-255, 0.0-1.0), a - stands for opacity (providnost boje). Zasto je to bitno?
+To je jako bitno recimo kada imamo npr sekciju gde je neka pozadinska slika...(nzm sta prica ne mogu da ispisem sve detalje)
+
+
+
+
+
+cssF:
+min-height: 300px;
+
+
+
+
+
+
+websites:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://css-tricks.com/almanac/properties/f/flex/
+
+
+
+
+cssF:
+flex-direction: row;	<=== ovo je po defaultu
+
+
+cssF:
+width: calc(25% - 20px);
 
 
 
